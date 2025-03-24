@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projectgogo", "Projectgogo\Projectgogo.csproj", "{9DC41FD2-35A4-4884-9413-8D690D710446}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{26E650C4-0C9E-47C6-9962-D3D235FB0559}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC41FD2-35A4-4884-9413-8D690D710446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC41FD2-35A4-4884-9413-8D690D710446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC41FD2-35A4-4884-9413-8D690D710446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC41FD2-35A4-4884-9413-8D690D710446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A48BE911-B589-42E4-82B9-BFBAB24E3D6F}
+	EndGlobalSection
+EndGlobal
